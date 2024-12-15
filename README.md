@@ -9,6 +9,7 @@ I’m always open to learning from seniors in my field to further advance advanc
 - Loves to contibute to Open Source 🔧
 - Creating tutorials for people online 🧠
 - Looking for like-minded devs and mentoring 👨‍🏫
+- Over millions views per month on Wikipedia
 - This is my secondary account 
 
 ## 🌐 Socials:
