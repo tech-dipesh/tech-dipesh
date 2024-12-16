@@ -16,7 +16,7 @@ I’m always open to learning from seniors in my field to further advance advanc
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/dipeshacademy) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dipeshacademy) 
 
 <a href="https://discord.com/channels/@realdipesh" target="_blank" rel="nofollow">
-   <img src="https://lanyard-profile-readme.vercel.app/api/497085547970560021?idleMessage=Probably%20doing%20something%20else..." alt="Discord Presence" align="left">
+   <img src="https://ibb.co/KVKJw9K.png" alt="Discord Presence" align="left">
 </a>
 
 # 💻 Tech Stack:
