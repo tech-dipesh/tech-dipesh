@@ -1,17 +1,17 @@
 # 💫 About Me:
-I am a MERN developer and full-stack learner, focused on building useful and creative digital solutions. I have worked with multiple brands across three different teams in non tech roles, gaining experience in both technical and creative work. My project portfolio includes a variety of full-stack applications, and I also spend some time improving my understanding of data structures and algorithms.<br>
-Right now, I am learning Redux and TypeScript to improve my front-end skills. I always look for new ways to learn and build better projects. I enjoy working with talented people in development, marketing, and design to bring new ideas to life.<br>
+I am a MERN developer and full-stack learner, focused on building useful and creative digital solutions. I have worked with multiple brands across three different teams in non tech roles, gaining experience in both technical and creative work. My project portfolio includes a variety of full-stack applications, and I also spend some time improving my understanding of data structures and algorithms.<br/><br/>
+Right now, I am learning Redux and TypeScript to improve my front-end skills. I always look for new ways to learn and build better projects. I enjoy working with talented people in development, marketing, and design to bring new ideas to life.<br/><br/>
 I am currently working on something exciting, and once it is finished, I will announce it here. I also like learning from experienced developers to improve my skills and take on bigger challenges.
-
+<br/><br/><br/>
 #### Career & Other Fun Stuff
-~60,000+ views across all my articles online 👀
-~Over a million views per month on Wikipedia 📚
--MERN developer & full-stack learner, working on a variety of projects 💻
--Currently learning Redux & TypeScript to improve front-end skills ⚛️
--Loves contributing to open source, helping build better software 🔧
--Worked with multiple brands across three different teams on non tech role, gaining real-world experience 🚀
--Looking for like-minded developers & mentoring opportunities 👨‍🏫
--Currently working on an exciting project—announcement coming soon! 🎉
+~60,000+ views across all my articles online 👀<br/><br/>
+~Over a million views per month on Wikipedia 📚<br/><br/>
+-MERN developer & full-stack learner, working on a variety of projects 💻<br/><br/>
+-Currently learning Redux & TypeScript to improve front-end skills ⚛️<br/><br/>
+-Loves contributing to open source, helping build better software 🔧<br/><br/>
+-Worked with multiple brands across three different teams on non tech role, gaining real-world experience 🚀<br/><br/>
+-Looking for like-minded developers & mentoring opportunities 👨‍🏫<br/><br/>
+-Currently working on an exciting project—announcement coming soon! 🎉<br/><br/>
  
 
 ## 🌐 Socials:
