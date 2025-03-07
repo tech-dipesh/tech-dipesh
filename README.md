@@ -1,16 +1,18 @@
 # 💫 About Me:
-I am currently leading a program focused on SaaS innovation, with a strong desire to bring innovative, unique solutions to market. My goal is to collaborate with talented individuals in development, marketing and design, combining efforts to create impactful digital experiences.<br>
-I am actively building my skills in the MERN,Front End stack, eager to explore new programs and ways to further my skills. I also bring with me knowledge of multiple front-end languages ​​and have hands-on experience working with brands across five different teams, allowing me to mix creative and executive processes
-<br>
-I’m always open to learning from seniors in my field to further advance advance my work, and I look forward to creating new and inspiring projects together!
-#### Career & Other Fun Stuff
+I am a MERN developer and full-stack learner, focused on building useful and creative digital solutions. I have worked with multiple brands across three different teams in non tech roles, gaining experience in both technical and creative work. My project portfolio includes a variety of full-stack applications, and I also spend some time improving my understanding of data structures and algorithms.<br>
+Right now, I am learning Redux and TypeScript to improve my front-end skills. I always look for new ways to learn and build better projects. I enjoy working with talented people in development, marketing, and design to bring new ideas to life.<br>
+I am currently working on something exciting, and once it is finished, I will announce it here. I also like learning from experienced developers to improve my skills and take on bigger challenges.
 
- ~60,000 views across all articles online 👀
-- Loves to contibute to Open Source 🔧
-- Creating tutorials for people online 🧠
-- Looking for like-minded devs and mentoring 👨‍🏫
-- Over millions views per month on Wikipedia
-- This is my secondary account 
+#### Career & Other Fun Stuff
+~60,000+ views across all my articles online 👀
+~Over a million views per month on Wikipedia 📚
+-MERN developer & full-stack learner, working on a variety of projects 💻
+-Currently learning Redux & TypeScript to improve front-end skills ⚛️
+-Loves contributing to open source, helping build better software 🔧
+-Worked with multiple brands across three different teams on non tech role, gaining real-world experience 🚀
+-Looking for like-minded developers & mentoring opportunities 👨‍🏫
+-Currently working on an exciting project—announcement coming soon! 🎉
+ 
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/dipeshacademy) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dipeshacademy) 
