@@ -13,6 +13,8 @@ I am currently working on something exciting, and once it is finished, I will an
 -Looking for like-minded developers & mentoring opportunities 👨‍🏫<br/><br/>
 -Currently working on an exciting project—announcement coming soon! 🎉<br/><br/>
  
+###My Recent Projects:
+<div><a href="https://mega-project-listing.onrender.com">Listing Mega Project</a></div>
 
 ## 🌐 Socials:
 
