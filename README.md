@@ -3,15 +3,14 @@ I am a MERN developer and full-stack learner, focused on building useful and cre
 Right now, I am learning Redux and TypeScript to improve my front-end skills. I always look for new ways to learn and build better projects. I enjoy working with talented people in development, marketing, and design to bring new ideas to life.<br/><br/>
 I am currently working on something exciting, and once it is finished, I will announce it here. I also like learning from experienced developers to improve my skills and take on bigger challenges.
 <br/><br/><br/>
+- 🌱 I’m currently learning **TypeScript, Socket.Io & Advance Redux ⚛️<**
+- 🔭 I’m currently working on **Project which will be a skill share marketplace.**
+    
 #### Career & Other Fun Stuff
-~60,000+ views across all my articles online 👀<br/><br/>
-~Over a million views per month on Wikipedia 📚<br/><br/>
--MERN developer & full-stack learner, working on a variety of projects 💻<br/><br/>
--Currently learning Redux & TypeScript to improve front-end skills ⚛️<br/><br/>
--Loves contributing to open source, helping build better software 🔧<br/><br/>
--Worked with multiple brands across three different teams on non tech role, gaining real-world experience 🚀<br/><br/>
--Looking for like-minded developers & mentoring opportunities 👨‍🏫<br/><br/>
--Currently working on an exciting project—announcement coming soon! 🎉<br/><br/>
+- 60,000+ views across all my articles online 👀<br/><br/>
+- Over a million views per month on Wikipedia 📚<br/><br/>
+-  Loves contributing to open source, helping build better software 🔧<br/><br/>
+- Worked with multiple brands across three different teams on non tech role, gaining real-world experience 🚀<br/><br/>
  
 ###My Recent Projects:
 <div><a href="https://mega-project-listing.onrender.com">Listing Mega Project</a></div>
