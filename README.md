@@ -12,12 +12,10 @@ I am currently working on something exciting, and once it is finished, I will an
 -  Loves contributing to open source, helping build better software 🔧<br/><br/>
 - Worked with multiple brands across three different teams on non tech role, gaining real-world experience 🚀<br/><br/>
  
-###My Recent Projects:
+## My Recent Projects:
 <div><a href="https://mega-project-listing.onrender.com">Listing Mega Project</a></div>
 
 ## 🌐 Socials:
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/dipeshacadmey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dipeshacadmey" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/29766757/dipesh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="29766757/dipesh" height="30" width="40" /></a>
