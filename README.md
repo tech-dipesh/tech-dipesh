@@ -17,7 +17,7 @@ I am currently working on something exciting, and once it is finished, I will an
 
 ## 🌐 Socials:
 <p align="left">
-<a href="https://linkedin.com/in/dipeshacadmey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dipeshacadmey" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/dipeshacademy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dipeshacadmey" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/29766757/dipesh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="29766757/dipesh" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/codedipesh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="codedipesh" height="30" width="40" /></a>
 <a href="https://discord.gg/https://discord.gg/XUFjg5VN" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/XUFjg5VN" height="30" width="40" /></a>
