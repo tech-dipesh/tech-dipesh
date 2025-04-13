@@ -14,6 +14,7 @@ I am opened on collaboration with creative minds in development, marketing, and 
  
 ## My Recent Projects:
 <div><a href="https://mega-project-listing.onrender.com">Listing Mega Project</a></div>
+<div><a href="https://daily-stack.vercel.app/">Daily Stack Project</a></div>
 
 ## 🌐 Socials:
 <p align="left">
