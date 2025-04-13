@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m a MERN developer on a mission to build digital solutions that actually work. I’ve worn many hats—transitioning from non-tech roles with various brands to build my own full-stack projects. Right now, I’m leveling up my front-end skills by diving deep into WebSocket and TypeScript.
+I’m a MERN developer on a mission to build digital solutions that actually work. I’ve worn many hats—transitioning from non-tech roles with various brands to build my own full-stack projects. Right now, I’m leveling up my front-end skills by diving deep into WebSocket and Docker.
 <br>
 I am opened on collaboration with creative minds in development, marketing, and design. I’m always exploring new ways to learn and innovate, pushing my limits with every project. Trust me, once you start reading my journey, you won’t want to stop—stay tuned for something big that’s on the horizon.
 <br><br>
