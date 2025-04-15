@@ -21,7 +21,8 @@ I am opened on collaboration with creative minds in development, marketing, and 
 <a href="https://linkedin.com/in/dipeshacademy" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="dipeshacadmey" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/29766757/dipesh" target="blank"><img align="center" src="https://skillicons.dev/icons?i=stackoverflow" alt="29766757/dipesh" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/codedipesh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="codedipesh" height="30" width="40" /></a>
-<a href="https://discord.gg/https://discord.gg/XUFjg5VN" target="blank"><img align="center" src="https://skillicons.dev/icons?i=discord" alt="https://discord.gg/XUFjg5VN" height="30" width="40" /></a>
+<a href="https://discord.gg/XUFjg5VN" target="blank"><img align="center" src="https://skillicons.dev/icons?i=discord" alt="https://discord.gg/XUFjg5VN" height="30" width="40" /></a>
+<a href="https://x.com/techiedipesh" target="blank"><img align="center" src="https://skillicons.dev/icons?i=twitter" alt=""https://x.com/techiedipesh" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
