@@ -33,7 +33,7 @@ I am opened on collaboration with creative minds in development, marketing, and 
 <h4>Frontend Framework:</h4>
 <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap,materialui">
 <h4>DataBase:</h4>
-<img src=https://skillicons.dev/icons?i=mongodb,mysql"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" height="40" width="40">
+<img src="https://skillicons.dev/icons?i=mongodb,mysql" alt="mongodb"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" height="40" width="40">
 <h4>Platforms:</h4>
 <img src="https://skillicons.dev/icons?i=git,github,vite,npm,vercel,netlify,figma,notion,postman,hoppscotch">
 
