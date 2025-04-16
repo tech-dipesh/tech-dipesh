@@ -3,7 +3,7 @@ I’m a MERN developer on a mission to build digital solutions that actually wor
 <br>
 I am opened on collaboration with creative minds in development, marketing, and design. I’m always exploring new ways to learn and innovate, pushing my limits with every project. Trust me, once you start reading my journey, you won’t want to stop—stay tuned for something big that’s on the horizon.
 <br><br>
-- 🌱 I’m currently learning **TypeScript, Socket.Io & Basic WebRTC ⚛️**
+- 🌱 I’m currently learning **WebSocket, Docker & AWS ⚛️**
 - 🔭 I’m currently working on **Projects related to the Developer tools Platform**
     
 #### Career & Other Fun Stuff
