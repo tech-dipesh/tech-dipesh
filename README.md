@@ -1,16 +1,17 @@
 # 💫 About Me:
-I’m a MERN developer on a mission to build digital solutions that actually work. I’ve worn many hats—transitioning from non-tech roles with various brands to build my own full-stack projects. Right now, I’m leveling up my front-end skills by diving deep into WebSocket and Docker.
+I’m a developer who loves building real, useful digital tools. I’ve worked with different brands in non-tech roles before, but now I create my own full-stack projects from scratch.
+Right now, I’m learning more about WebSocket, Docker, and soon AWS to grow my software development skills.
 <br>
-I am opened on collaboration with creative minds in development, marketing, and design. I’m always exploring new ways to learn and innovate, pushing my limits with every project. Trust me, once you start reading my journey, you won’t want to stop—stay tuned for something big that’s on the horizon.
+I enjoy working with creative people in development, design, and marketing, and I’m always looking for ways to learn and improve. I take on every project as a chance to push my limits.
 <br><br>
-- 🌱 I’m currently learning **WebSocket, Docker & AWS ⚛️**
-- 🔭 I’m currently working on **Real Time intergration with Socket.IO**
+-  I’m currently learning **WebSocket, Docker & AWS🌱 **
+- I’m currently working on **Real Time features with Socket.IO🔭**
     
 #### Career & Other Fun Stuff
 - 60,000+ views across all my articles online 👀<br/><br/>
 - Over a million views per month on Wikipedia 📚<br/><br/>
 - Loves contributing to open source, helping build better software 🔧<br/><br/>
-- Worked with multiple brands across three different teams on non tech role, gaining real-world experience 🚀<br/><br/>
+
  
 ## My Recent Projects:
 <div><a href="https://mega-project-listing.onrender.com">Listing Mega Project</a></div>
