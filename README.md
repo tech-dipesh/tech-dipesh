@@ -16,6 +16,8 @@ I enjoy working with creative people in development, design, and marketing, and 
 ## My Recent Projects:
 <div><a href="https://mega-project-listing.onrender.com">Listing Mega Project</a></div>
 <div><a href="https://daily-stack.vercel.app/">Daily Stack Project</a></div>
+<div><a href="https://portfolio-ts-one.vercel.app/">Personal Website</a></div>
+
 
 ## 🌐 Socials:
 <p align="left">
