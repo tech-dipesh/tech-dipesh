@@ -4,13 +4,14 @@ Right now, I’m learning more about WebSocket, Docker, and soon AWS to grow my 
 <br>
 I enjoy working with creative people in development, design, and marketing, and I’m always looking for ways to learn and improve. I take on every project as a chance to push my limits.
 <br><br>
+-  I’m solving leetcode problems on the daily basis **Over 70+ question solved as of now. (20 medium)**
 -  I’m currently learning **WebSocket, Docker & AWS🌱**
 - I’m currently working on **Real Time features with Socket.IO🔭**
     
 #### Career & Other Fun Stuff
-- 60,000+ views across all my articles online 👀<br/><br/>
-- Over a million views per month on Wikipedia 📚<br/><br/>
-- Loves contributing to open source, helping build better software 🔧<br/><br/>
+- 60,000+ views across all my articles online 👀<br/>
+- Over a million views per month on Wikipedia 📚<br/>
+- Loves contributing to open source, helping build better software 🔧<br/>
 
  
 ## My Recent Projects:
