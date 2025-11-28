@@ -4,10 +4,11 @@ Right now, I’m learning more about WebSocket, Docker, and soon AWS to grow my 
 <br>
 I enjoy working with creative people in development, design, and marketing, and I’m always looking for ways to learn and improve. I take on every project as a chance to push my limits.
 <br><br>
--  I’m solving leetcode problems on the daily basis **Over 180+ question solved as of now.**
--  Currently i'm working only on **DSA** but in the past days i've done web development.
+-  I’m solving leetcode problems on the daily basis **Over 225+ question solved as of now.**
+-  Currently i'm working only on **Web Development** but in the past days i've lot of DSA.
     
 #### Career & Other Fun Stuff
+- CodeaThon 7.0 Winner
 - 60,000+ views across all my articles online 👀<br/>
 - Over a million views per month on Wikipedia 📚<br/>
 - Loves contributing to open source, helping build better software 🔧<br/>
