@@ -47,3 +47,4 @@ I enjoy working with creative people in development, design, and marketing, and 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=tech-dipesh&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=tech-dipesh&theme=dark&hide_border=false)<br/>
+![View Count](https://komarev.com/ghpvc/?username=tech-dipesh&style=flat-square)
