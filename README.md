@@ -1,4 +1,5 @@
 💫 About Me
+
 I’m a afifianto software developer who loves to solve real-world problems by assigning tasks to computers using code. Day and night, I enjoy thinking about coding—finding better ways to solve problems and learning new topics using different approaches.
 I love coding in my strongest areas of technology, with a major focus on JavaScript and C++.
 So far, I have built 3 personal projects, which I consider one of my biggest personal achievements. I solve at least 1 LeetCode problem daily, with 250+ problems solved so far. Currently, I am focused on Web Development, mainly working with React and Redux, while staying consistent with Data Structures and Algorithms practice.
@@ -11,7 +12,7 @@ So far, I have built 3 personal projects, which I consider one of my biggest per
 - Over 1 million views per month on Wikipedia 📚
 
 ## My Recent Projects:
-<div><a href="https://mega-project-listing.onrender.com">Listing Mega Project</a></div>
+<div><a href="https://mega-project-listing.onrender.com">Home Finder</a></div>
 <div><a href="https://state-flows.vercel.app/">State Flows Project Management</a></div>
 <div><a href="https://portfolio-ts-one.vercel.app/">Personal Website</a></div>
 
@@ -31,11 +32,11 @@ So far, I have built 3 personal projects, which I consider one of my biggest per
 <h4>Backend:</h4>
 <img src="https://skillicons.dev/icons?i=nodejs,express,ejs">
 <h4>Frontend Framework:</h4>
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap,materialui">
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap,redux">
 <h4>DataBase:</h4>
 <img src="https://skillicons.dev/icons?i=mongodb,mysql" alt="mongodb"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" height="40" width="40">
 <h4>Platforms:</h4>
-<img src="https://skillicons.dev/icons?i=git,github,vite,npm,vercel,netlify,figma,notion,postman,hoppscotch">
+<img src="https://skillicons.dev/icons?i=git,github,vite,npm,vercel,netlify,figma,postman,hoppscotch">
 
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tech-dipesh&show_icons=true&locale=en&layout=compact" alt="tech-dipesh" /></p>
