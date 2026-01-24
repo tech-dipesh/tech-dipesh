@@ -1,22 +1,18 @@
-# 💫 About Me:
-I’m a developer who loves building real, useful digital tools. I’ve worked with different brands in non-tech roles before, but now I create my own full-stack projects from scratch.
-Right now, I’m learning more about WebSocket, Docker, and soon AWS to grow my software development skills.
-<br>
-I enjoy working with creative people in development, design, and marketing, and I’m always looking for ways to learn and improve. I take on every project as a chance to push my limits.
-<br><br>
--  I’m solving leetcode problems on the daily basis **Over 225+ question solved as of now.**
--  Currently i'm working only on **Web Development** but in the past days i've lot of DSA.
-    
-#### Career & Other Fun Stuff
-- CodeaThon 7.0 Winner
-- 60,000+ views across all my articles online 👀<br/>
-- Over a million views per month on Wikipedia 📚<br/>
-- Loves contributing to open source, helping build better software 🔧<br/>
+💫 About Me
+I’m a afifianto software developer who loves to solve real-world problems by assigning tasks to computers using code. Day and night, I enjoy thinking about coding—finding better ways to solve problems and learning new topics using different approaches.
+I love coding in my strongest areas of technology, with a major focus on JavaScript and C++.
+So far, I have built 3 personal projects, which I consider one of my biggest personal achievements. I solve at least 1 LeetCode problem daily, with 250+ problems solved so far. Currently, I am focused on Web Development, mainly working with React and Redux, while staying consistent with Data Structures and Algorithms practice.
 
- 
+# Career & Other Fun Stuff: 
+- Participated in multiple Hackathons 🔧
+- CodeaThon 7.0 Winner 🏆
+- CEED Member
+- 60,000+ views across my online articles 👀
+- Over 1 million views per month on Wikipedia 📚
+
 ## My Recent Projects:
 <div><a href="https://mega-project-listing.onrender.com">Listing Mega Project</a></div>
-<div><a href="https://daily-stack.vercel.app/">Daily Stack Project</a></div>
+<div><a href="https://state-flows.vercel.app/">State Flows Project Management</a></div>
 <div><a href="https://portfolio-ts-one.vercel.app/">Personal Website</a></div>
 
 
@@ -26,7 +22,7 @@ I enjoy working with creative people in development, design, and marketing, and 
 <a href="https://stackoverflow.com/users/29766757/dipesh" target="blank"><img align="center" src="https://skillicons.dev/icons?i=stackoverflow" alt="29766757/dipesh" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/codedipesh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="codedipesh" height="30" width="40" /></a>
 <a href="https://discord.gg/XUFjg5VN" target="blank"><img align="center" src="https://skillicons.dev/icons?i=discord" alt="https://discord.gg/XUFjg5VN" height="30" width="40" /></a>
-<a href="https://x.com/techiedipesh" target="blank"><img align="center" src="https://skillicons.dev/icons?i=twitter" alt=""https://x.com/techiedipesh" height="30" width="40" /></a>
+<a href="https://x.com/tec_dipesh" target="blank"><img align="center" src="https://skillicons.dev/icons?i=twitter" alt=""https://x.com/techiedipesh" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
