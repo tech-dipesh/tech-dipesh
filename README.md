@@ -40,7 +40,7 @@ Currently, I am focused on web development, mainly working with React and Redux,
 <div><a href="https://mega-project-listing.onrender.com">Home Finder</a></div>
 <div><a href="https://state-flows.vercel.app/">State Flows Project Management</a></div>
 <div><a href="https://tech-dipesh.github.io/Beat-Bridge/">Beat Bridge: Music Player</a></div>
-<div><a href="https://portfolio-ts-one.vercel.app/">Personal Website</a></div>
+<div><a href="https://tech-dipesh.vercel.app/">Personal Website</a></div>
 
 
 ## 🌐 Socials:
