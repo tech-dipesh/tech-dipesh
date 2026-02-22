@@ -39,11 +39,11 @@ In data structures and algorithms, I’ve studied fundamental topics such as:
 <h4>Scripting:</h4>
 <img src="https://skillicons.dev/icons?i=js,ts,c,cpp,">
 <h4>Backend:</h4>
-<img src="https://skillicons.dev/icons?i=nodejs,express,ejs">
+<img src="https://skillicons.dev/icons?i=nodejs,express">
 <h4>Frontend Framework:</h4>
-<img src="https://skillicons.dev/icons?i=react,tailwind,bootstrap,redux">
+<img src="https://skillicons.dev/icons?i=react,tailwind,redux">
 <h4>DataBase:</h4>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql" alt="mongodb">
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql" alt="mongodb">
 <h4>Platforms:</h4>
 <img src="https://skillicons.dev/icons?i=git,vite,npm,vercel,netlify,vscode,postman">
   
