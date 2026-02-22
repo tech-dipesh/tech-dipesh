@@ -2,8 +2,6 @@
 
 I’m a software developer who loves to solve real-world problems by writing code that tells computers what to do. Day and night, I enjoy thinking about coding—finding better ways to solve problems and learning new topics through different approaches. I love coding in my strongest areas of technology, with a major focus on JavaScript and C++.
 
-So far, I have built three personal projects, which I consider one of my biggest personal achievements. I solve at least one LeetCode problem daily, with 250+ problems solved so far.
-
 In web development, I’ve covered the foundational topics needed to build fresher projects, including:
 - JavaScript
 - Tailwind CSS
@@ -11,24 +9,9 @@ In web development, I’ve covered the foundational topics needed to build fresh
 - Redux
 - Node.js
 
-For databases, I’ve worked with MySQL and MongoDB. On the server side, I’ve covered Node.js and Express.
 
 In data structures and algorithms, I’ve studied fundamental topics such as:
-- Array
-- String
-- Stack
-- Queue
-- Linked List
-- Tree
-- Sorting & Searching Algorithms
-- Greedy Algorithms
-- Recursion
-- Backtracking
-- Hashing
-- Two Pointer
-- Sliding Window
-
-Currently, I am focused on web development, mainly working with React and Redux, while staying consistent with my Data Structures and Algorithms practice.
+- Array, String, Stack, Queue, Linkedin List, Tree, Sorting & Searching Algorithms, Greedy Algorithms, Recursion, Backtracking, Hashing, Two Pointer, Sliding Window
 
 
 # Career & Other Fun Stuff: 
