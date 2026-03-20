@@ -1,6 +1,4 @@
 💫 About Me
-Here's a cleaner and more professional version of your profile:
-
 I'm a software developer who enjoys solving real-world problems through code. I'm constantly exploring better ways to build things, with a strong focus on JavaScript and C++.
 
 
