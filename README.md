@@ -1,23 +1,41 @@
 💫 About Me
+Here's a cleaner and more professional version of your profile:
 
-I’m a software developer who loves to solve real-world problems by writing code that tells computers what to do. Day and night, I enjoy thinking about coding—finding better ways to solve problems and learning new topics through different approaches. I love coding in my strongest areas of technology, with a major focus on JavaScript and C++.
-
-In web development, I’ve covered the foundational topics needed to build fresher projects, including:
-- JavaScript
-- Tailwind CSS
-- React
-- Redux
-- Node.js
+I'm a software developer who enjoys solving real-world problems through code. I'm constantly exploring better ways to build things, with a strong focus on JavaScript and C++.
 
 
-In data structures and algorithms, I’ve studied fundamental topics such as:
-- Array, String, Stack, Queue, Linkedin List, Tree, Sorting & Searching Algorithms, Greedy Algorithms, Recursion, Backtracking, Hashing, Two Pointer, Sliding Window
+
+**Web Development**
+
+- JavaScript • Tailwind CSS • React • Redux • Node.js • Express.js • PostgreSQL • Docker
 
 
-# Career & Other Fun Stuff: 
-- Participated in multiple Hackathons 🔧
-- CodeaThon 7.0 Winner 🏆
-- CEED Member
+
+**Data Structures & Algorithms**
+
+- Arrays | Strings | Stacks | Queues | Linked Lists | Trees
+
+- Sorting & Searching | Greedy | Recursion | Backtracking
+
+- Hashing | Two Pointer | Sliding Window
+
+
+
+**🏆 Career & Highlights**
+
+- Participant in multiple hackathons
+
+- Winner – Code-a-Thon 7.0
+
+- Member, CEED
+
+
+
+---
+
+
+
+Let me know if you want a version tailored for LinkedIn, GitHub, or a portfolio.
 
 ## My Recent Projects:
 <div><a href="https://mega-project-listing.onrender.com">Home Finder</a></div>
@@ -45,7 +63,7 @@ In data structures and algorithms, I’ve studied fundamental topics such as:
 <h4>DataBase:</h4>
 <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql" alt="mongodb">
 <h4>Platforms:</h4>
-<img src="https://skillicons.dev/icons?i=git,vite,npm,vercel,netlify,vscode,postman">
+<img src="https://skillicons.dev/icons?i=docker,git,vite,npm,vercel,netlify,vscode,postman">
   
 <h4>Most Used Languages</h4>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tech-dipesh&show_icons=true&locale=en&layout=compact" alt="tech-dipesh" /></p>
