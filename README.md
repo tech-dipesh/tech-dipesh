@@ -36,12 +36,11 @@ I'm a software developer who enjoys solving real-world problems through code. I'
 Let me know if you want a version tailored for LinkedIn, GitHub, or a portfolio.
 
 ## My Recent Projects:
-<div><a href="https://mega-project-listing.onrender.com">Home Finder</a></div>
+<div><a href="https://github.com/tech-dipesh/yeti-jobs/">Yeti Jobs</a></div
 <div><a href="https://state-flows.vercel.app/">State Flows Project Management</a></div>
+<div><a href="https://mega-project-listing.onrender.com">Home Finder</a></div>
 <div><a href="https://tech-dipesh.github.io/Beat-Bridge/">Beat Bridge: Music Player</a></div>
 <div><a href="https://tech-dipesh.vercel.app/">Personal Website</a></div>
-## Currenty Working On:
-<div><a href="https://github.com/tech-dipesh/yeti-jobs/">Yeti Jobs</a></div>
 
 
 ## 🌐 Socials:
