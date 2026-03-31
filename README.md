@@ -36,9 +36,9 @@ Let me know if you want a version tailored for LinkedIn, GitHub, or a portfolio.
 
 ## My Recent Projects:
 <div><a href="https://github.com/tech-dipesh/yeti-jobs/">Yeti Jobs</a></div
-<div><a href="https://state-flows.vercel.app/">State Flows Project Management</a></div>
+<div><a href="https://state-flows.vercel.app">State Flows Project Management</a></div>
 <div><a href="https://mega-project-listing.onrender.com">Home Finder</a></div>
-<div><a href="https://tech-dipesh.github.io/Beat-Bridge/">Beat Bridge: Music Player</a></div>
+<div><a href="https://tech-dipesh.github.io/Beat-Bridge">Beat Bridge: Music Player</a></div>
 <div><a href="https://sharmadipendra.com.np">Personal Website</a></div>
 
 
@@ -46,8 +46,8 @@ Let me know if you want a version tailored for LinkedIn, GitHub, or a portfolio.
 <p align="left">
 <a href="https://linkedin.com/in/tech-dipesh" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="dipeshacadmey" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/29766757/dipesh" target="blank"><img align="center" src="https://skillicons.dev/icons?i=stackoverflow" alt="29766757/dipesh" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/codedipesh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="codedipesh" height="30" width="40" /></a>
-<a href="https://discord.gg/XUFjg5VN" target="blank"><img align="center" src="https://skillicons.dev/icons?i=discord" alt="https://discord.gg/XUFjg5VN" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/tech-dipesh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="tech-dipesh" height="30" width="40" /></a>
+<a href="https://discord.com/users/973585874027688016" target="blank"><img align="center" src="https://skillicons.dev/icons?i=discord" alt="https://discord.gg/XUFjg5VN" height="30" width="40" /></a>
 <a href="https://x.com/tec_dipesh" target="blank"><img align="center" src="https://skillicons.dev/icons?i=twitter" alt=""https://x.com/techiedipesh" height="30" width="40" /></a>
 </p>
 
