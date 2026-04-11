@@ -39,7 +39,7 @@ Let me know if you want a version tailored for LinkedIn, GitHub, or a portfolio.
 <div><a href="https://state-flows.vercel.app">State Flows Project Management</a></div>
 <div><a href="https://mega-project-listing.onrender.com">Home Finder</a></div>
 <div><a href="https://tech-dipesh.github.io/Beat-Bridge">Beat Bridge: Music Player</a></div>
-<div><a href="https://sharmadipendra.com.np">Personal Website</a></div>
+<div><a href="https://dipsharma.me">Personal Website</a></div>
 
 
 ## 🌐 Socials:
