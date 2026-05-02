@@ -43,13 +43,7 @@ Let me know if you want a version tailored for LinkedIn, GitHub, or a portfolio.
 
 
 ## 🌐 Socials:
-<p align="left">
-<a href="https://linkedin.com/in/tech-dipesh" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="dipeshacadmey" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/29766757/dipesh" target="blank"><img align="center" src="https://skillicons.dev/icons?i=stackoverflow" alt="29766757/dipesh" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/tech-dipesh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="tech-dipesh" height="30" width="40" /></a>
-<a href="https://discord.com/users/973585874027688016" target="blank"><img align="center" src="https://skillicons.dev/icons?i=discord" alt="https://discord.gg/XUFjg5VN" height="30" width="40" /></a>
-<a href="https://x.com/tec_dipesh" target="blank"><img align="center" src="https://skillicons.dev/icons?i=twitter" alt=""https://x.com/techiedipesh" height="30" width="40" /></a>
-</p>
+<p align="center"> <a href="https://linkedin.com/in/tech-dipesh"> <img src="https://skillicons.dev/icons?i=linkedin" height="25"/> </a> &nbsp; <a href="https://stackoverflow.com/users/29766757/dipesh"> <img src="https://skillicons.dev/icons?i=stackoverflow" height="25"/> </a> &nbsp; <a href="https://www.leetcode.com/tech-dipesh"> <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="25"/> </a> &nbsp; <a href="https://discord.com/users/973585874027688016"> <img src="https://skillicons.dev/icons?i=discord" height="25"/> </a> &nbsp; <a href="https://x.com/tec_dipesh"> <img src="https://skillicons.dev/icons?i=twitter" height="25"/> </a> </p>
 
 <h3 align="left">Languages and Tools:</h3>
 <h4>Scripting:</h4>
