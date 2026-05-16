@@ -36,7 +36,7 @@ I’m continuously learning how to write clean, maintainable code and build syst
 * Learning the basics of system design and understanding how backend systems work at a deeper level
 * Practicing important DSA problems to get better at problem-solving and writing efficient code
 * Trying out new technologies like Next.js and AI agents to stay updated with industry trends
-
+* Learning the fundamental of Cloud Compting.
 
 
 ## My Recent Projects:
