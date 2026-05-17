@@ -33,11 +33,11 @@ I’m continuously learning how to write clean, maintainable code and build syst
 
 
 ## Currently:
-* Creating a RunTimeX which is something a major project that is on the earlier stage
-* Working on improving the **Yeti Jobs** project by adding new features, fixing bugs, and making it handle more users smoothly
-* Practicing important DSA problems to get better at problem-solving and writing efficient code
-* Trying out new technologies like Next.js and AI agents to stay updated with industry trends
-* Learning the fundamental of Cloud Compting.
+- Building **RuntimeX** – a backend observability pipeline with Express, TypeScript, PostgreSQL, and Prisma that ingests, queues, and stores events asynchronously
+- Learning **AWS cloud computing** – hands-on with S3 for storage, Lambda for serverless functions, EC2 for compute, and IAM for access management
+- Exploring **Next.js** – understanding SSR, ISR, and optimization techniques beyond traditional React
+- Improving **Yeti Jobs** – adding new features, fixing bugs, performance patches, and preparing it to handle more concurrent users
+- Practicing **DSA** in C++ to strengthen problem-solving and write efficient, optimized code
 
 
 ## My Recent Projects:
@@ -59,9 +59,9 @@ I’m continuously learning how to write clean, maintainable code and build syst
 <h4>Frontend Framework:</h4>
 <img src="https://skillicons.dev/icons?i=react,tailwind,redux">
 <h4>DataBase:</h4>
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql" alt="mongodb">
-<h4>Platforms:</h4>
-<img src="https://skillicons.dev/icons?i=docker,git,vite,npm,vercel,netlify,vscode,postman">
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,supabase" alt="mongodb">
+<h4>Devops & Tools:</h4>
+<img src="https://skillicons.dev/icons?i=docker,neovim,linux,git,vite,npm,vercel,babel,vscode,postman,regex,vim">
   
 <h4>Most Used Languages</h4>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tech-dipesh&show_icons=true&locale=en&layout=compact" alt="tech-dipesh" /></p>
