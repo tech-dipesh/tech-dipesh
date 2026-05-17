@@ -19,21 +19,22 @@ I’m continuously learning how to write clean, maintainable code and build syst
 ### **Frontend (Supporting Skills)**
 * React.js • Redux
 * JavaScript (ES6+)
+* TypeScript
 * Tailwind CSS
 ### **Core Problem Solving**
 * C++/C
 * Data Structures & Algorithms
 
 
-## ** Career & Highlights**
+## **Career & Highlights**
 * Participated in multiple hackathons, collaborating in fast-paced environments to build innovative solutions
 * 🥇 Winner – Code-a-Thon 7.0
 * Member of CEED (technical community)
 
 
 ## Currently:
+* Creating a RunTimeX which is something a major project that is on the earlier stage
 * Working on improving the **Yeti Jobs** project by adding new features, fixing bugs, and making it handle more users smoothly
-* Learning the basics of system design and understanding how backend systems work at a deeper level
 * Practicing important DSA problems to get better at problem-solving and writing efficient code
 * Trying out new technologies like Next.js and AI agents to stay updated with industry trends
 * Learning the fundamental of Cloud Compting.
