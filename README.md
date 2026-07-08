@@ -64,9 +64,11 @@ I’m continuously learning how to write clean, maintainable code and build syst
 <img src="https://skillicons.dev/icons?i=docker,neovim,linux,git,vite,npm,vercel,babel,vscode,postman,regex,vim">
   
 <h4>Most Used Languages</h4>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tech-dipesh&show_icons=true&locale=en&layout=compact" alt="tech-dipesh" /></p>
+![.](https://github-readme-stats.shion.dev/api/top-langs/?username=tech-dipesh&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=tech-dipesh&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-stats.shion.dev/api?username=tech-dipesh&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=tech-dipesh&theme=dark&hide_border=false)<br/>
 ![View Count](https://komarev.com/ghpvc/?username=tech-dipesh&color=blue)
+
+
