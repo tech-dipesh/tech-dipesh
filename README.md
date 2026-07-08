@@ -63,12 +63,16 @@ I’m continuously learning how to write clean, maintainable code and build syst
 <h4>Devops & Tools:</h4>
 <img src="https://skillicons.dev/icons?i=docker,neovim,linux,git,vite,npm,vercel,babel,vscode,postman,regex,vim">
   
-<h4>Most Used Languages</h4>
-![.](https://github-readme-stats.shion.dev/api/top-langs/?username=tech-dipesh&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+# 📊 GitHub Stats
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=tech-dipesh&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=tech-dipesh&theme=dark&hide_border=false)<br/>
+
+![Most Used Languages](https://github-readme-stats.shion.dev/api/top-langs/?username=tech-dipesh&theme=radical&hide_border=false&include_all_commits=true&count_private=true)
+
+![GitHub Stats](https://github-readme-stats.shion.dev/api?username=tech-dipesh&hide_border=false&include_all_commits=true&count_private=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tech-dipesh&theme=dark&hide_border=false)
+
 ![View Count](https://komarev.com/ghpvc/?username=tech-dipesh&color=blue)
+
 
 
