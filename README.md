@@ -53,7 +53,7 @@ I’m continuously learning how to write clean, maintainable code and build syst
 
 <h3 align="left">Languages and Tools:</h3>
 <h4>Scripting:</h4>
-<img src="https://skillicons.dev/icons?i=js,ts,c,cpp,">
+<img src="https://skillicons.dev/icons?i=js,ts,c,cpp,java">
 <h4>Backend:</h4>
 <img src="https://skillicons.dev/icons?i=nodejs,express">
 <h4>Frontend Framework:</h4>
