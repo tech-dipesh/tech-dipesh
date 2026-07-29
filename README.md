@@ -1,44 +1,50 @@
 # 💫 About Me
-Hi, I’m Dipendra, a computer science student with a strong focus on backend development and building scalable systems. I enjoy designing efficient server-side architectures, working with databases, and optimizing performance for real-world applications.
 
-My current focus is on strengthening my backend fundamentals using Node.js, Express, and PostgreSQL, along with improving problem-solving skills through Data Structures and Algorithms in C++. I’ve solved 250+ problems on LeetCode, which has helped me develop a solid foundation in logic and writing efficient code.
+Hi, I am Dipendra — a backend-focused developer from a remote part of Nepal who learns by building systems that actually handle load, not just tutorials that run on localhost.
 
-I’ve also built a production-level job portal, **Yeti Jobs**, where I worked on backend architecture, database design, and query optimization. I’m particularly interested in how systems scale for thousands or millions of users, and I actively try to apply those concepts in my projects.
+I care about how data moves, where it sits, and how fast it comes back. My focus is on designing server-side architecture that scales, writing queries that do not choke under pressure, and building APIs that stay predictable when traffic grows.
 
-I’m continuously learning how to write clean, maintainable code and build systems that are reliable, performant, and ready for real-world use.
+## 🛠 Tech Stack
 
+### Backend & Systems
+* Node.js • Express.js • TypeScript
+* PostgreSQL (Schema Design, Query Optimization, Indexing)
+* Prisma • Supabase
+* REST API Development • Authentication & Authorization
+* Docker • AWS (S3, Lambda, EC2, IAM)
 
-## Tech Stack
-### **Backend-Focused Development**
-* Node.js • Express.js
-* PostgreSQL (Database Design, Query Optimization, Indexing)
-* REST API Development
-* Authentication & Authorization
-* Docker
-
-### **Frontend (Supporting Skills)**
+### Frontend (Supporting)
+* Next.js (Full-stack — currently building APIs and backend communication within the framework)
 * React.js • Redux
-* JavaScript (ES6+)
-* TypeScript
-* Tailwind CSS
-### **Core Problem Solving**
-* C++/C
-* Data Structures & Algorithms
+* JavaScript (ES6+) • Tailwind CSS
 
+### Core Problem Solving
+* C++ • Data Structures & Algorithms
+* Codeforces (Active — currently solving A & B level problems)
+* 250+ problems on LeetCode
 
-## **Career & Highlights**
-* Participated in multiple hackathons, collaborating in fast-paced environments to build innovative solutions
-* 🥇 Winner – Code-a-Thon 7.0
-* Member of CEED (technical community)
+### Fundamental Knowledge
+* Redis — learning persistence models, rate limiting, hash sets, and why certain data structures perform the way they do under load
+* Java — college curriculum foundation
 
+## Currently Building
 
-## Currently:
-- Building **RuntimeX** – a backend observability pipeline with Express, TypeScript, PostgreSQL, and Prisma that ingests, queues, and stores events asynchronously
-- Learning **AWS cloud computing** – hands-on with S3 for storage, Lambda for serverless functions, EC2 for compute, and IAM for access management
-- Exploring **Next.js** – understanding SSR, ISR, and optimization techniques beyond traditional React
-- Improving **Yeti Jobs** – adding new features, fixing bugs, performance patches, and preparing it to handle more concurrent users
-- Practicing **DSA** in C++ to strengthen problem-solving and write efficient, optimized code
+**RuntimeX** — A backend observability pipeline built with Express, TypeScript, PostgreSQL, and Prisma. Heavy focus on database architecture, async event ingestion, and queueing patterns that do not fall over when volume spikes.
 
+## Currently Learning
+
+* **Next.js as a full-stack framework** — Performance Optimization, Caching, Nextjs Analytics, and wiring backend APIs directly within the app layer using TypeScript
+* **Redis in depth** — not just caching, but understanding persistence, rate limiting internals, hash sets, and performance characteristics of different data structures
+* **AWS cloud computing** — hands-on with S3, Lambda, EC2, and IAM
+* **Clean code as a discipline** — writing code so clear that anyone from junior to senior can read it without asking questions. That is the only real goal.
+
+## Highlights
+* 🥇 Winner — Code-a-Thon 7.0
+* 🌟 Shortlisted for Round 2 of the MyPolaris Fellowship Program — selected from 10,000+ students across 300+ cities
+* Member of CEED (Technical Community)
+
+## Note
+I do not hit every topic above every single day — time is tight. But I touch something meaningful at least biweekly. Consistency over intensity.
 
 ## My Recent Projects:
 <div><a href="https://github.com/tech-dipesh/yeti-jobs/">Yeti Jobs</a></div
@@ -57,7 +63,7 @@ I’m continuously learning how to write clean, maintainable code and build syst
 <h4>Backend:</h4>
 <img src="https://skillicons.dev/icons?i=nodejs,express">
 <h4>Frontend Framework:</h4>
-<img src="https://skillicons.dev/icons?i=react,tailwind,redux">
+<img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,redux">
 <h4>DataBase:</h4>
 <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,supabase" alt="mongodb">
 <h4>Devops & Tools:</h4>
