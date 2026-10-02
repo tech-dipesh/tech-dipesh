@@ -48,9 +48,6 @@ Built entirely on free-tier infrastructure — Next.js on Vercel, Upstash Redis,
 ---
 
 ## Problem solving
-
-I don't collect LeetCode numbers for the sake of it. Every medium/hard  question teaches me to see the shape of a solution before I write code.
-
 - **300+ problems solved** on LeetCode (peak rating 1570, 365-Day Badge, 100-Day Badge 2026)
 - **Active on Codeforces** — solving A & B level problems, building contest stamina
 - Languages: **C++** (primary for CP), JavaScript, TypeScript, SQL
@@ -59,7 +56,7 @@ I don't collect LeetCode numbers for the sake of it. Every medium/hard  question
 
 ## Currently exploring
 
-- **Computer Foundation (Revision)** — We're not a robot to once we study we are always perfect on those we need a revision/Multiple Practice
+- **Computer Foundation (Revision)** — We're not a robot to once we study we are always perfect we always need a revision/Multiple Practice
 - **Redis internals** — persistence models, rate limiting, why hash sets behave differently under load
 - **AI Infrastructure** — Ai is the Future, i've to be ready for that
 - **Clean code as a discipline** — writing code so clear anyone from junior to senior can read it without asking
@@ -81,9 +78,9 @@ I don't hit every topic above every single day — time is tight. But I touch so
 📫 **hello@dipsharma.me** · [LinkedIn](https://linkedin.com/in/tech-dipesh) · [Portfolio](https://dipsharma.me)
 
 ## My Recent Projects:
-<div><a href="https://github.com/tech-dipesh/yeti-jobs/">Yeti Jobs</a></div
+<div><a href="https://yeti-jobs.vercel.app">Yeti Jobs</a></div
+<div><a href="https://github.com/tech-dipesh">Daigo</a></div
 <div><a href="https://state-flows.vercel.app">State Flows Project Management</a></div>
-<div><a href="https://mega-project-listing.onrender.com">Home Finder</a></div>
 <div><a href="https://tech-dipesh.github.io/Beat-Bridge">Beat Bridge: Music Player</a></div>
 <div><a href="https://dipsharma.me">Personal Website</a></div>
 
@@ -93,18 +90,17 @@ I don't hit every topic above every single day — time is tight. But I touch so
 
 <h3 align="left">Languages and Tools:</h3>
 <h4>Scripting:</h4>
-<img src="https://skillicons.dev/icons?i=js,ts,c,cpp,java">
+<img src="https://skillicons.dev/icons?i=js,ts,c,cpp,java" alt="Scripting">
 <h4>Backend:</h4>
-<img src="https://skillicons.dev/icons?i=nodejs,express">
+<img src="https://skillicons.dev/icons?i=nodejs,express" alt="Backend">
 <h4>Frontend Framework:</h4>
-<img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,redux">
+<img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,redux" alt="Frontend">
 <h4>DataBase:</h4>
 <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,supabase" alt="mongodb">
 <h4>Devops & Tools:</h4>
-<img src="https://skillicons.dev/icons?i=docker,neovim,linux,git,vite,npm,vercel,babel,vscode,postman,regex,vim">
+<img src="https://skillicons.dev/icons?i=docker,neovim,linux,git,npm,vscode,bun,regex,vim,pnpm" alt="devops \& tools">
   
 # 📊 GitHub Stats
-
 
 ![Most Used Languages](https://github-readme-stats.shion.dev/api/top-langs/?username=tech-dipesh&theme=radical&hide_border=false&include_all_commits=true&count_private=true)
 
