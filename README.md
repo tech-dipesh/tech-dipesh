@@ -78,9 +78,9 @@ I don't hit every topic above every single day — time is tight. But I touch so
 📫 **hello@dipsharma.me** · [LinkedIn](https://linkedin.com/in/tech-dipesh) · [Portfolio](https://dipsharma.me)
 
 ## My Recent Projects:
-<div><a href="https://yeti-jobs.vercel.app">Yeti Jobs</a></div
-<div><a href="https://github.com/tech-dipesh">Daigo</a></div
-<div><a href="https://state-flows.vercel.app">State Flows Project Management</a></div>
+<div><a href="https://yeti-jobs.vercel.app">Yeti Jobs</a></div>
+<div><a href="https://github.com/tech-dipesh">Daigo</a></div>
+<div><a href="https://state-flows.vercel.app">State Flow</a></div>
 <div><a href="https://tech-dipesh.github.io/Beat-Bridge">Beat Bridge: Music Player</a></div>
 <div><a href="https://dipsharma.me">Personal Website</a></div>
 
