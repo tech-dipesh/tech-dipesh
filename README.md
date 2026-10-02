@@ -1,14 +1,6 @@
 # Dipendra Sharma
-I'm a backend-leaned developer from Nepal currently studying at Chitkara University. I build systems that survive real traffic, not just demo day — and I learn by shipping, not by watching tutorials.
 
-## How I think
-I don't chase perfect systems. I chase systems that know how to break gracefully.
-
-A **fault** is one component misbehaving — a PostgreSQL connection pool leaking, a Render instance cold-starting for 50 seconds, a cron job firing twice because you forgot to guard it. A **failure** is the whole platform collapsing because nobody asked "what if?" I design for the first so I never have to explain the second.
-
-Scalability isn't a badge you earn once. It's the question you keep asking — what happens when this grows 10x? I load-tested my job portal at 100 concurrent users when I barely had 5. Not because I needed to, but because the bottleneck should surprise you in data, not in production.
-
-Even AWS doesn't build 100% fault-tolerant systems. They build systems that know which faults matter. That's the standard I hold my work to.
+Backend-leaned developer from Nepal, studying at Chitkara University Baddi, India. I build systems that survive real traffic — and i love to build a cool things. Which also help me to learn by shipping code.
 
 ---
 
@@ -34,62 +26,58 @@ Also shipped an AI resume scorer using Grok + pdf-parse, a notification system f
 
 ---
 
-### StateFlow — A Jira-inspired task manager
-*Frontend · State Management · Performance · UX*
+### Daigo — A peer-to-peer commute marketplace
+*Backend · Real-Time Systems · Geospatial · Distributed Architecture*
 
-Drag-and-drop kanban boards with dark mode, keyboard shortcuts, and full responsive layout. The core is a custom undo/redo engine I built with three-stack state history — past, present, future — handling 50+ sequential operations at O(1) without lag.
+A two-sided marketplace where riders post commute requests and drivers accept them in real time. Price is agreed before the trip. When no single driver covers the full route, the system chains two drivers through one relay transfer — structurally closer to multi-leg flight search than a typical carpool clone.
 
-I used React Context API with localStorage persistence, but added hydration safety checks so refreshing the browser never corrupts state. For the drag-and-drop, I optimized rendering with strategic memoization and ref-based callbacks to keep 60fps even with 50+ task cards mounted. Built client-side CSV/JSON export with Blob generation — zero server dependency.
+Real engineering problems I'm solving here:
 
-**Tech:** Next.js · React · TypeScript · Tailwind CSS · DnD Kit · Chart.js
+- **Cold-start bootstrapping** — a marketplace with no drivers has no value for riders. Solved with circle-based matching (college/office email domains get priority) before opening to the general public, plus a notify-me waitlist.
+- **Geospatial matching** — Prisma has no native PostGIS support, so route overlap uses raw `$queryRaw` SQL. Calculates detour limits and suggests meeting points from lat/long proximity. Every result uses an explicit custom generic type, never `any`.
+- **Cross-instance real-time** — Vercel's serverless functions don't share memory. A WebSocket message from one function can't reach a user connected to another. Redis pub/sub solves it: match events publish to a channel, every instance forwards to its connected clients. 75-second countdown, first-accept-wins enforced via Prisma transactions.
+- **Pricing correctness** — per-zone multipliers, time-of-day bands, and demand multipliers. Two hard caps (per-km and absolute) checked against the *rounded* value, not the raw float — or a rounded price can land just over the cap.
+- **Failure-resistant backend** — idempotency keys for payment retries (a dropped connection can't duplicate a charge), webhook verification, atomic seat release (two riders can't book the same seat), and refresh token rotation with revocation.
+- **Signed-URL uploads** — server validates type and size, then the client uploads directly to Supabase storage. Backend never touches the file.
+- **Background jobs** — CSV exports, document verification, and alerts run through Upstash QStash instead of blocking API responses.
 
----
+Built entirely on free-tier infrastructure — Next.js on Vercel, Upstash Redis, Stadia Maps, Brevo for email, Razorpay in test mode. Every tool has a verified free tier, which forces architectural decisions a bigger budget would let you avoid.
 
-### HomeFinder — An Airbnb-style rental platform
-*Full-stack · Authentication · Cloud Integration · Deployment*
-
-My first serious backend project. MVC pattern with Express and MongoDB. Session-based auth using Passport.js with salted+bcrypt hashing and a MongoDB-backed session store. I learned the hard way that MemoryStore leaks in production — switched to connect-mongo before deploying.
-
-Built an image upload pipeline with Cloudinary (multer parses, Cloudinary stores, database keeps the reference) and integrated MapTiler for geocoding — type an address, get a live map marker. Deployed on Render with environment isolation.
-
-**Tech:** Node.js · Express · MongoDB · Passport.js · Cloudinary · MapTiler · EJS
+**Tech:** Next.js · TypeScript · PostgreSQL + PostGIS · Prisma · Redis · QStash · Stadia Maps · Razorpay
 
 ---
 
 ## Problem solving
 
-I don't collect LeetCode numbers for the sake of it. I solve problems because every hard question teaches me to see the shape of a solution before I write code.
+I don't collect LeetCode numbers for the sake of it. Every medium/hard  question teaches me to see the shape of a solution before I write code.
 
-- **325+ problems solved** on LeetCode (peak rating 1570, 365-Day Badge)
-- **Active on Codeforces** — currently solving A & B level problems, building up contest stamina
+- **300+ problems solved** on LeetCode (peak rating 1570, 365-Day Badge, 100-Day Badge 2026)
+- **Active on Codeforces** — solving A & B level problems, building contest stamina
 - Languages: **C++** (primary for CP), JavaScript, TypeScript, SQL
 
 ---
 
 ## Currently exploring
 
-- **Next.js as a full-stack framework** — not just frontend, but wiring APIs directly in the app layer with TypeScript
-- **Redis** — not just "caching," but persistence models, rate limiting internals, and why hash sets perform differently under load
-- **AWS** — hands-on with S3, EC2, IAM, and Lambda
-- **Clean code as a discipline** — writing code so clear that anyone from junior to senior can read it without asking questions
+- **Computer Foundation (Revision)** — We're not a robot to once we study we are always perfect on those we need a revision/Multiple Practice
+- **Redis internals** — persistence models, rate limiting, why hash sets behave differently under load
+- **AI Infrastructure** — Ai is the Future, i've to be ready for that
+- **Clean code as a discipline** — writing code so clear anyone from junior to senior can read it without asking
 
 ---
 
 ## Highlights
-
 - 🥇 **Winner — Code-a-Thon 7.0** (university hackathon, cash prize)
-- 🌟 **Shortlisted for Round 2 — MyPolaris Fellowship 2026** (selected from 10,000+ students across 300+ cities)
+- 🌟 **Shortlisted for Round 2 — Polaris Fellowship 2026** (selected from 10,000+ students across 300+ cities)
 - 🌟 **Selected Contributor — GirlScript Summer of Code 2026** (national open-source program)
 - 📚 **CEED Member** — Entrepreneurship Program, Chitkara University
 
 ---
 
 ## Note
-
 I don't hit every topic above every single day — time is tight. But I touch something meaningful at least biweekly. Consistency over intensity.
 
 **Open to backend, full-stack, SDE, and DevOps internships across India.**
-
 📫 **hello@dipsharma.me** · [LinkedIn](https://linkedin.com/in/tech-dipesh) · [Portfolio](https://dipsharma.me)
 
 ## My Recent Projects:
