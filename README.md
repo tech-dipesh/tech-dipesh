@@ -90,7 +90,7 @@ I don't hit every topic above every single day — time is tight. But I touch so
 
 **Open to backend, full-stack, SDE, and DevOps internships across India.**
 
-📫 **dipsharmadev@gmail.com** · [LinkedIn](https://linkedin.com/in/tech-dipesh) · [Portfolio](https://dipsharma.me)
+📫 **hello@dipsharma.me** · [LinkedIn](https://linkedin.com/in/tech-dipesh) · [Portfolio](https://dipsharma.me)
 
 ## My Recent Projects:
 <div><a href="https://github.com/tech-dipesh/yeti-jobs/">Yeti Jobs</a></div
