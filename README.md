@@ -13,7 +13,7 @@ Built this solo, from the database schema up. 50+ REST APIs, JWT auth with RBAC 
 
 The backend is strict MVC — controllers, services, models, thin routes. I wrote the migration system as 14 numbered SQL files with dependency ordering (extensions → enums → tables → indexes → triggers) so the schema evolves cleanly. Every table has database-level validation — even if someone bypasses the client and server, the data stays clean.
 
-I didn't just ship features. I tried to break it:
+For the Yeti Jobs rather than just trying to keep building a features rather i try to make a load test to even on the free tier how much it handle:
 - Load-tested with Apache Bench: 67 req/sec sustained, 100 concurrent users, zero failures
 - Multi-stage Docker builds shrank the backend image from 1.99GB to 520MB
 - Caught a PostgreSQL pool leak before it hit production — learned that `Pool` queries must be released or transactions silently fail
