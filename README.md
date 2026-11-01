@@ -17,12 +17,12 @@ For the Yeti Jobs rather than just trying to keep building a features rather i t
 - Load-tested with Apache Bench: 67 req/sec sustained, 100 concurrent users, zero failures
 - Multi-stage Docker builds shrank the backend image from 1.99GB to 520MB
 - Caught a PostgreSQL pool leak before it hit production — learned that `Pool` queries must be released or transactions silently fail
-- Built a cron job that keeps the free-tier Render instance alive, taking cold starts from 50+ seconds to under 2s — 99.5% uptime over 3 months
+- Deployed the backend on AWS EC2 with a scheduled health-check cron job, maintaining 99.5% uptime over 3 months.
 - 28+ integration tests with Jest and Supertest covering the critical routes
 
 Also shipped an AI resume scorer using Grok + pdf-parse, a notification system for followed companies, and full Swagger docs.
 
-**Tech:** Node.js · Express · PostgreSQL · Prisma · Docker · Jest · Supabase · Render
+**Tech:** Node.js · Express · PostgreSQL · Prisma · Docker · Jest · Supabase · AWS EC2
 
 ---
 
@@ -50,7 +50,7 @@ Built entirely on free-tier infrastructure — Next.js on Vercel, Upstash Redis,
 ## Problem solving
 - **300+ problems solved** on LeetCode (peak rating 1570, 365-Day Badge, 100-Day Badge 2026)
 - **Active on Codeforces** — solving A & B level problems, building contest stamina
-- Languages: **C++** (primary for CP), JavaScript, TypeScript, SQL
+- Languages: **C++** (primary for CP), Java
 
 ---
 
@@ -65,8 +65,9 @@ Built entirely on free-tier infrastructure — Next.js on Vercel, Upstash Redis,
 ## Highlights
 - 🥇 **Winner — Code-a-Thon 7.0** (university hackathon, cash prize)
 - 🌟 **Shortlisted for Round 2 — Polaris Fellowship 2026** (selected from 10,000+ students across 300+ cities)
-- 🌟 **Selected Contributor — GirlScript Summer of Code 2026** (national open-source program)
+- 🌿 **Selected Contributor — GirlScript Summer of Code 2026** (national open-source program)
 - 📚 **CEED Member** — Entrepreneurship Program, Chitkara University
+- 🔧 **Open Source Contributor** — Merged PRs into Zed, the editor I use daily, plus Bruno API client
 
 ---
 
