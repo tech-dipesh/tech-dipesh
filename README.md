@@ -54,12 +54,11 @@ Built entirely on free-tier infrastructure — Next.js on Vercel, Upstash Redis,
 
 ---
 
-## Currently exploring
-
+## Currently:
 - **Computer Foundation (Revision)** — We're not a robot to once we study we are always perfect we always need a revision/Multiple Practice
 - **Redis internals** — persistence models, rate limiting, why hash sets behave differently under load
 - **AI Infrastructure** — Ai is the Future, i've to be ready for that
-- **Clean code as a discipline** — writing code so clear anyone from junior to senior can read it without asking
+- **GoLang** — Planning to Move Fully To Golang Once I've that Hold Due to How it Handle a Concurrent Tasks
 
 ---
 
@@ -90,9 +89,9 @@ I don't hit every topic above every single day — time is tight. But I touch so
 
 <h3 align="left">Languages and Tools:</h3>
 <h4>Scripting:</h4>
-<img src="https://skillicons.dev/icons?i=js,ts,c,cpp,java" alt="Scripting">
+<img src="https://skillicons.dev/icons?i=js,ts,c,cpp,java,go" alt="Scripting">
 <h4>Backend:</h4>
-<img src="https://skillicons.dev/icons?i=nodejs,express" alt="Backend">
+<img src="https://skillicons.dev/icons?i=nodejs,express,go" alt="Backend">
 <h4>Frontend Framework:</h4>
 <img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,redux" alt="Frontend">
 <h4>DataBase:</h4>
